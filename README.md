@@ -1,5 +1,4 @@
 # SnakeGame
 
 Created a Popular Snake Game Using HTML, CSS, Javscript
-
-<img scr="https://github.com/HiteshGarg-Coder/SnakeGame/blob/main/Assets/bg.jpg">
+<img src="https://github.com/HiteshGarg-Coder/SnakeGame/blob/main/Assets/bg.jpg" alt="My cool logo"/>
